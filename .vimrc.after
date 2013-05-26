@@ -1,0 +1,3 @@
+color solarized
+set wrap
+let g:Powerline_symbols = 'fancy'
