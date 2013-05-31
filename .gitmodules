@@ -1,3 +1,6 @@
 [submodule "vim-powerline"]
 	path = vim-powerline
 	url = https://github.com/Lokaltog/vim-powerline
+[submodule "ag.vim"]
+	path = ag.vim
+	url = https://github.com/rking/ag.vim.git
