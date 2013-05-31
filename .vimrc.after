@@ -1,3 +1,4 @@
 color solarized
 set wrap
+set clipboard=unnamed
 let g:Powerline_symbols = 'fancy'
