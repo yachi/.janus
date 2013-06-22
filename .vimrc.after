@@ -2,3 +2,6 @@ color solarized
 set wrap
 set clipboard=unnamed
 let g:Powerline_symbols = 'fancy'
+set nocompatible
+set noswapfile
+filetype plugin indent on
