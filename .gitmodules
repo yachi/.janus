@@ -4,3 +4,6 @@
 [submodule "ag.vim"]
 	path = ag.vim
 	url = https://github.com/rking/ag.vim.git
+[submodule "floobits-vim"]
+	path = floobits-vim
+	url = https://github.com/Floobits/floobits-vim
