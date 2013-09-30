@@ -5,3 +5,4 @@ let g:Powerline_symbols = 'fancy'
 set nocompatible
 set noswapfile
 filetype plugin indent on
+set tags+=gems.tags
