@@ -1,5 +1,7 @@
 To use vim with powerline in Mac OSX:
 
+install Janus' Vim Distribution
+
 install homebrew
 
 add /usr/local/bin to the top of $PATH
