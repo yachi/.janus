@@ -1,8 +1,10 @@
-color solarized
+let g:Powerline_symbols = 'fancy'
+
+syntax enable
+set background=dark
+colorscheme solarized
+
 set wrap
 set clipboard=unnamed
-let g:Powerline_symbols = 'fancy'
-set nocompatible
 set noswapfile
-filetype plugin indent on
 set tags+=gems.tags
