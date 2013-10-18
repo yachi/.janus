@@ -8,3 +8,8 @@ set wrap
 set clipboard=unnamed
 set noswapfile
 set tags+=gems.tags
+
+if $VIM_CRONTAB == "true"
+  set nobackup
+  set nowritebackup
+endif
