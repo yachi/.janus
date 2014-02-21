@@ -1,1 +1,2 @@
 call janus#disable_plugin('SnipMate')
+let g:syntastic_mode_map = { "mode": "passive" }
