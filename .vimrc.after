@@ -1,3 +1,5 @@
+set shell=bash\ -i
+
 let g:Powerline_symbols = 'fancy'
 
 syntax enable
@@ -15,3 +17,4 @@ if $VIM_CRONTAB == "true"
 endif
 
 " set guicolors
+au BufRead,BufNewFile Capfile,*.cap set filetype=ruby
