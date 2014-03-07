@@ -1,2 +1,3 @@
-call janus#disable_plugin('SnipMate')
+call janus#disable_plugin('snipmate')
+call janus#disable_plugin('vim-snippets')
 let g:syntastic_mode_map = { "mode": "passive" }

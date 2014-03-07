@@ -16,5 +16,13 @@ if $VIM_CRONTAB == "true"
   set nowritebackup
 endif
 
-" set guicolors
 au BufRead,BufNewFile Capfile,*.cap set filetype=ruby
+
+" PyMatcher for CtrlP
+if !has('python')
+  echo 'In order to use pymatcher plugin, you need +python compiled vim'
+else
+  let g:ctrlp_match_func = { 'match': 'pymatcher#PyMatch' }
+endif
+
+" set guicolors

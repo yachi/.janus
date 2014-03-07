@@ -4,3 +4,6 @@
 [submodule "vim-bundler"]
 	path = vim-bundler
 	url = git://github.com/tpope/vim-bundler.git
+[submodule "ctrlp-py-matcher"]
+	path = ctrlp-py-matcher
+	url = https://github.com/FelikZ/ctrlp-py-matcher.git
