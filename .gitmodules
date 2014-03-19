@@ -10,3 +10,6 @@
 [submodule "vim-exchange"]
 	path = vim-exchange
 	url = https://github.com/tommcdo/vim-exchange.git
+[submodule "vim-sneak"]
+	path = vim-sneak
+	url = https://github.com/justinmk/vim-sneak.git
