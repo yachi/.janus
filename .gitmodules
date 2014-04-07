@@ -10,3 +10,6 @@
 [submodule "vim-sneak"]
 	path = vim-sneak
 	url = https://github.com/justinmk/vim-sneak.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git

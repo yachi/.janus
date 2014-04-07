@@ -1,5 +1,6 @@
 call janus#disable_plugin('snipmate')
 call janus#disable_plugin('vim-snippets')
+call janus#disable_plugin('supertab')
 let g:syntastic_mode_map = { "mode": "passive" }
 
 let g:airline_powerline_fonts = 1
