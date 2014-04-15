@@ -13,3 +13,6 @@
 [submodule "YouCompleteMe"]
 	path = YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "vim-signify"]
+	path = vim-signify
+	url = https://github.com/mhinz/vim-signify.git
